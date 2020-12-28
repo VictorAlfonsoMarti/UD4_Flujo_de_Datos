@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.exe
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.deps.json
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.runtimeconfig.json
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.runtimeconfig.dev.json
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.dll
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\bin\Debug\netcoreapp3.1\UD4_Ex14.pdb
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.AssemblyInfo.cs
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.dll
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.pdb
+C:\Users\victo\source\repos\UD4_Ex14\UD4_Ex14\obj\Debug\netcoreapp3.1\UD4_Ex14.genruntimeconfig.cache
